@@ -1,3 +1,2 @@
 # helloworld
-just another repository
-leaning 
+我要输入中文
